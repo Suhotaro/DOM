@@ -1,0 +1,21 @@
+<root>
+  <intervals> 
+    <interval>      
+      1 50 
+    </interval>
+    <interval>
+      50 100
+    </interval>
+    <interval>
+      100 150
+    </interval>
+  </intervals>
+  <intervals>
+    <interval>
+      150 200
+    </interval>
+    <interval>
+      150 200
+    </interval>
+  </intervals>
+</root>
